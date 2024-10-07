@@ -33,4 +33,21 @@
             }
             table {
                 margin: 0 auto;
+                width: 500px;
             }
+           th{
+               background-color: #dd0000;
+               color: #ffffff;
+               font-size: 20px;
+               font-weight: bold;
+           }
+           td{
+               text-align: center;
+           }
+           tr:nth-child(even){
+               background-color: #dddddd;
+           
+           }
+           tr:nth-child(odd){
+               background-color: #eeeeee;
+           }
