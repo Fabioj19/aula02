@@ -158,4 +158,5 @@ tr:nth-child(odd){
 .footer{
             background-image: url("jp_topoFundo.jpg");
             color: #ffffff;
+            text-align: center;
 }
