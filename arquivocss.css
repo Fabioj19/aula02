@@ -52,6 +52,10 @@ body{
             margin: 0 auto;
             text-align: center;
 }
+h1{
+            font-size: 35px;
+            color: #ffffff
+}
             .div4{
                 background-color: yellow;
                 text-align: center;
