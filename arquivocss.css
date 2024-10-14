@@ -38,6 +38,9 @@ body{
 .menulink:hover{
             text-decoration: underline;
 }
+.menulink{
+            color: #ffffff;
+}
             .div3{
                 background-color: gray;
                 text-align: center;
