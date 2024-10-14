@@ -67,12 +67,13 @@ h1{
             float: left;
             position: relative;
             top: 50px;
-            left: 50px
+            left: 50px;
 }
 .filmeA{
             position: relative;
             top: 50;
             left: 90px;
+            margin: 0 auto;
 }
             .div5{
                 background-color: orange;
