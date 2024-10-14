@@ -1,33 +1,40 @@
-            .desc{
-                       font-size: 18px;
-                       text-align: center;
-            }
-            body{
-                background-color: #123123;
-            }
-           .div1{
-                      width: 900px;
-                      height: 200px;
-                      background-image: url("jp_topoFundo.jpg);
-                      margin: 0 auto ;
-            }
-           .logojp{
-                      position: relative;
-                      top: 20px;
-                      left: 40px;
-           }
-           .div2{
-                      width: 500px;
-                      height: 40px;
-                      background-image: url("jp_menuFundo.jpg");
-                      position: relative;
-                      top: -80px;
-                      left: 325px;
-                      border: 2px solid #ffffff;
-                      border-radius: 20px 0px 20px 0px;
-                      text-align: center;
-                      line-height: 40px
-            }
+.desc{
+            font-size: 18px;
+            text-align: center;
+}
+body{
+            background-color: #123123;
+}
+.div1{
+            width: 900px;
+            height: 200px;
+            background-image: url("jp_topoFundo.jpg);
+            margin: 0 auto ;
+}
+.logojp{
+            position: relative;
+            top: 20px;
+            left: 40px;
+}
+.div2{
+            width: 500px;
+            height: 40px;
+            background-image: url("jp_menuFundo.jpg");
+            position: relative;
+            top: -80px;
+            left: 325px;
+            border: 2px solid #ffffff;
+            border-radius: 20px 0px 20px 0px;
+            text-align: center;
+            line-height: 40px
+}
+.menuseparador{
+            font-family: Arial;
+            color: #ffffff;
+            font-weight: bold;
+            font-size: 20px;
+            text-decoration: none;
+}
             .div3{
                 background-color: gray;
                 text-align: center;
